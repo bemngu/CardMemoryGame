@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036643262660",
+    "project_id": "memorygame-cefe5",
+    "storage_bucket": "memorygame-cefe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036643262660:android:276ef675260a21bc8ae991",
+        "android_client_info": {
+          "package_name": "com.rkpandey.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036643262660-nlockhaahm60ttape712u3n77cgg64l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gTLYefAjYk8e7o9K9G07Q8hz5MeaCXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036643262660-nlockhaahm60ttape712u3n77cgg64l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
